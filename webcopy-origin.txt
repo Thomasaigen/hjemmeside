@@ -1,0 +1,864 @@
+Uri: https://fonts.gstatic.com/s/specialgothicexpandedone/v2/IurO6Zxk74-YaYk1r3HOet4g75ENmBxUmOK61tA0Iu5QlpF_GhU.woff2
+File Name: C:\Benzema\modric.trendex.gg\s\specialgothicexpandedone\v2\IurO6Zxk74-YaYk1r3HOet4g75ENmBxUmOK61tA0Iu5QlpF_GhU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/specialgothicexpandedone/v2/IurO6Zxk74-YaYk1r3HOet4g75ENmBxUmOK61tA0Iu5QmJF_.woff2
+File Name: C:\Benzema\modric.trendex.gg\s\specialgothicexpandedone\v2\IurO6Zxk74-YaYk1r3HOet4g75ENmBxUmOK61tA0Iu5QmJF_.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0iDmxkizU9goZoclqIqsV5rvETU.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\0iDmxkizU9goZoclqIqsV5rvETU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2BmSa4TZZvFKAZg2DydxTbvKlTU.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\2BmSa4TZZvFKAZg2DydxTbvKlTU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2uIBiALfCHVpWbHqRMZutfT7giU.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\2uIBiALfCHVpWbHqRMZutfT7giU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4oIO9fB59bn3cKFWz7piCj28z9s.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\4oIO9fB59bn3cKFWz7piCj28z9s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6ZMhcggRFfEfbf7lncCpaUbA.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\6ZMhcggRFfEfbf7lncCpaUbA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/7lw0VWkeXrGYJT05oB3DsFy8BaY.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\7lw0VWkeXrGYJT05oB3DsFy8BaY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/7pScaNeb6M7n2HF2jKemDqzCIr4.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\7pScaNeb6M7n2HF2jKemDqzCIr4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\867QObYax8ANsfX4TGEVU9YiCM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8mwKwShtYEXIZ5diRBT74yn9jdQ.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\8mwKwShtYEXIZ5diRBT74yn9jdQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8sCN6PGUr4I8q5hC5twAXfcwqV0.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\8sCN6PGUr4I8q5hC5twAXfcwqV0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/aqiiD4LUKkKzXdjGL5UzHq8bo5w.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\aqiiD4LUKkKzXdjGL5UzHq8bo5w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/aUYDUTztS7anQw5JuwCncXeLOBY.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\aUYDUTztS7anQw5JuwCncXeLOBY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/BkDpl4ghaqvMi1btKFyG2tdbec.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\BkDpl4ghaqvMi1btKFyG2tdbec.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/CnMzVKZxLPB68RITfNGUfLe65m4.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\CnMzVKZxLPB68RITfNGUfLe65m4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DF7bjCRmStYPqSb945lAlMfCCVQ.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\DF7bjCRmStYPqSb945lAlMfCCVQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/djqIk3Er2JcAcz7Rup88BdINEw.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\djqIk3Er2JcAcz7Rup88BdINEw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DYHjxG0qXjopUuruoacfl5SA.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\DYHjxG0qXjopUuruoacfl5SA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/F3kdpd2N0cToWV5huaZjjgM.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\F3kdpd2N0cToWV5huaZjjgM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fEqgEChcTaneQFxeugexHq7Bk.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\fEqgEChcTaneQFxeugexHq7Bk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fXvVh2JeZlehNcEhKHpHH0frSl0.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\fXvVh2JeZlehNcEhKHpHH0frSl0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\GIryZETIX4IFypco5pYZONKhJIo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H4TfENUY1rh8R9UaSD6vngjJP3M.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\H4TfENUY1rh8R9UaSD6vngjJP3M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/I11LrmuBDQZweplJ62KkVsklU5Y.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\I11LrmuBDQZweplJ62KkVsklU5Y.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\ia3uin3hQWqDrVloC1zEtYHWw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/IETjvc5qzUaRoaruDpPSwCUM8.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\IETjvc5qzUaRoaruDpPSwCUM8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Ig8B8nzy11hzIWEIYnkg91sofjo.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\Ig8B8nzy11hzIWEIYnkg91sofjo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\Ii21jnSJkulBKsHHXKlapi7fv9w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/iwWTDc49ENF2tCHbqlNARXw6Ug.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\iwWTDc49ENF2tCHbqlNARXw6Ug.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/KMFW46iYsEZaUBwXbwPc9nQm71o.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\KMFW46iYsEZaUBwXbwPc9nQm71o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MaMAn5Jp5gJg1z3VaLH65QwWPLc.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\MaMAn5Jp5gJg1z3VaLH65QwWPLc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/miJTzODdiyIr3tRo9KEoqXXk2PM.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\miJTzODdiyIr3tRo9KEoqXXk2PM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mYcqTSergLb16PdbJJQMl9ebYm4.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\mYcqTSergLb16PdbJJQMl9ebYm4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/n9CXKI3tsmCPeC6MCT9NziShSuQ.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\n9CXKI3tsmCPeC6MCT9NziShSuQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nCpxWS6DaPlPe0lHzStXAPCo3lw.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\nCpxWS6DaPlPe0lHzStXAPCo3lw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nhSQpBRqFmXNUBY2p5SENQ8NplQ.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\nhSQpBRqFmXNUBY2p5SENQ8NplQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nL7d8Ph0ViwUQorApF89PoAagQI.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\nL7d8Ph0ViwUQorApF89PoAagQI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NNTAT1XAm8ZRkr824inYPkjNeL4.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\NNTAT1XAm8ZRkr824inYPkjNeL4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oLCoaT3ioA0fHdJnWR9W6k7NY.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\oLCoaT3ioA0fHdJnWR9W6k7NY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/P2qr9PAWBt905929rHfxmneMUG0.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\P2qr9PAWBt905929rHfxmneMUG0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\pKRFNWFoZl77qYCAIp84lN1h944.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/r0mv3NegmA0akcQsNFotG32Las.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\r0mv3NegmA0akcQsNFotG32Las.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/s7NH6sl7w4NU984r5hcmo1tPSYo.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\s7NH6sl7w4NU984r5hcmo1tPSYo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Sj0PCHQSBjFmEp6NBWg6FNaKc.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\Sj0PCHQSBjFmEp6NBWg6FNaKc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sQxGYWDlRkDr0eOKqiNRl6g5rs.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\sQxGYWDlRkDr0eOKqiNRl6g5rs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\syRNPWzAMIrcJ3wIlPIP43KjQs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TBccIZR9kIpkRce5i9ATfPp7a4.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\TBccIZR9kIpkRce5i9ATfPp7a4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TfzHIi6ZmZDuhnIFGcgM6Ipuim4.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\TfzHIi6ZmZDuhnIFGcgM6Ipuim4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/THWAFHoAcmqLMy81E8hCSdziVKA.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\THWAFHoAcmqLMy81E8hCSdziVKA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/U9LaDDmbRhzX3sB8g8glTy5feTE.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\U9LaDDmbRhzX3sB8g8glTy5feTE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ub5XwqqEAMrXQz31ej6fNqbxnBc.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\ub5XwqqEAMrXQz31ej6fNqbxnBc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UTeedEK21hO5jDxEUldzdScUqpg.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\UTeedEK21hO5jDxEUldzdScUqpg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vebZUMjGyKkYsfcY73iwWTzLNag.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\vebZUMjGyKkYsfcY73iwWTzLNag.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VfD2n20yM7v0hrUEBHEyafsmMBY.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\VfD2n20yM7v0hrUEBHEyafsmMBY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vFzuJY0c65av44uhEKB6vyjFMg.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\vFzuJY0c65av44uhEKB6vyjFMg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\VgYFWiwsAC5OYxAycRXXvhze58.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\vQyevYAyHtARFwPqUzQGpnDs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wx5nfqEgOXnxuFaxB0Mn9OhmcZA.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\wx5nfqEgOXnxuFaxB0Mn9OhmcZA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/yDiPvYxioBHsicnYxpPW35WQmx8.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\yDiPvYxioBHsicnYxpPW35WQmx8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YOHXUQlY1iC2t7qT4HeLSoBDtn4.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\YOHXUQlY1iC2t7qT4HeLSoBDtn4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YYB6GZmCWnZq3RWZOghuZIOxQY.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\YYB6GZmCWnZq3RWZOghuZIOxQY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zAMK70AQRFSShJgUiaR5IiIhgzk.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\zAMK70AQRFSShJgUiaR5IiIhgzk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ZRl8AlxwsX1m7xS1eJCiSPbztg.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\ZRl8AlxwsX1m7xS1eJCiSPbztg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2
+File Name: C:\Benzema\modric.trendex.gg\assets\Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/0dlYwQHho2n87sXIew0873O1iXY.png?scale-down-to=512&width=834&height=676
+File Name: C:\Benzema\modric.trendex.gg\images\0dlYwQHho2n87sXIew0873O1iXY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/0dlYwQHho2n87sXIew0873O1iXY.png?width=834&height=676
+File Name: C:\Benzema\modric.trendex.gg\images\0dlYwQHho2n87sXIew0873O1iXY-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/18IMlFfKGtIdWvYZxk5pkRvVhI.png
+File Name: C:\Benzema\modric.trendex.gg\images\18IMlFfKGtIdWvYZxk5pkRvVhI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/2aLptnBvmYUPnsNykzNE03X4oc.png?scale-down-to=1024&width=1585&height=321
+File Name: C:\Benzema\modric.trendex.gg\images\2aLptnBvmYUPnsNykzNE03X4oc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/2aLptnBvmYUPnsNykzNE03X4oc.png?scale-down-to=512&width=1585&height=321
+File Name: C:\Benzema\modric.trendex.gg\images\2aLptnBvmYUPnsNykzNE03X4oc-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/2aLptnBvmYUPnsNykzNE03X4oc.png?width=1585&height=321
+File Name: C:\Benzema\modric.trendex.gg\images\2aLptnBvmYUPnsNykzNE03X4oc-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/2d4m5ONcsok2vSe90tdBzZXqew.png?scale-down-to=1024&width=1868&height=356
+File Name: C:\Benzema\modric.trendex.gg\images\2d4m5ONcsok2vSe90tdBzZXqew.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/2d4m5ONcsok2vSe90tdBzZXqew.png?scale-down-to=512&width=1868&height=356
+File Name: C:\Benzema\modric.trendex.gg\images\2d4m5ONcsok2vSe90tdBzZXqew-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/2d4m5ONcsok2vSe90tdBzZXqew.png?width=1868&height=356
+File Name: C:\Benzema\modric.trendex.gg\images\2d4m5ONcsok2vSe90tdBzZXqew-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/2KDloiqmUaudhGOlYQkyxmPMc.png?scale-down-to=1024&width=1465&height=435
+File Name: C:\Benzema\modric.trendex.gg\images\2KDloiqmUaudhGOlYQkyxmPMc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/2KDloiqmUaudhGOlYQkyxmPMc.png?scale-down-to=512&width=1465&height=435
+File Name: C:\Benzema\modric.trendex.gg\images\2KDloiqmUaudhGOlYQkyxmPMc-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/2KDloiqmUaudhGOlYQkyxmPMc.png?width=1465&height=435
+File Name: C:\Benzema\modric.trendex.gg\images\2KDloiqmUaudhGOlYQkyxmPMc-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6Oi9gncAyMlpWcsIcy5z4nwXHs.png?scale-down-to=512&width=628&height=102
+File Name: C:\Benzema\modric.trendex.gg\images\6Oi9gncAyMlpWcsIcy5z4nwXHs.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6Oi9gncAyMlpWcsIcy5z4nwXHs.png?width=628&height=102
+File Name: C:\Benzema\modric.trendex.gg\images\6Oi9gncAyMlpWcsIcy5z4nwXHs-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6SQMXtRC7mIh0uhRLVaDtAO4ac.png?scale-down-to=1024&width=3601&height=1200
+File Name: C:\Benzema\modric.trendex.gg\images\6SQMXtRC7mIh0uhRLVaDtAO4ac-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6SQMXtRC7mIh0uhRLVaDtAO4ac.png?scale-down-to=2048&width=3601&height=1200
+File Name: C:\Benzema\modric.trendex.gg\images\6SQMXtRC7mIh0uhRLVaDtAO4ac-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6SQMXtRC7mIh0uhRLVaDtAO4ac.png?scale-down-to=512&width=3601&height=1200
+File Name: C:\Benzema\modric.trendex.gg\images\6SQMXtRC7mIh0uhRLVaDtAO4ac-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6SQMXtRC7mIh0uhRLVaDtAO4ac.png?width=3601&height=1200
+File Name: C:\Benzema\modric.trendex.gg\images\6SQMXtRC7mIh0uhRLVaDtAO4ac.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/8RTEhQJ4WWSWOpMdhz0HQe66oQ.png?scale-down-to=1024&width=2705&height=726
+File Name: C:\Benzema\modric.trendex.gg\images\8RTEhQJ4WWSWOpMdhz0HQe66oQ.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/8RTEhQJ4WWSWOpMdhz0HQe66oQ.png?scale-down-to=2048&width=2705&height=726
+File Name: C:\Benzema\modric.trendex.gg\images\8RTEhQJ4WWSWOpMdhz0HQe66oQ-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/8RTEhQJ4WWSWOpMdhz0HQe66oQ.png?scale-down-to=512&width=2705&height=726
+File Name: C:\Benzema\modric.trendex.gg\images\8RTEhQJ4WWSWOpMdhz0HQe66oQ-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/8RTEhQJ4WWSWOpMdhz0HQe66oQ.png?width=2705&height=726
+File Name: C:\Benzema\modric.trendex.gg\images\8RTEhQJ4WWSWOpMdhz0HQe66oQ-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/9V5YeaXwSIxB6N5A3ggPGaxIo.webp?scale-down-to=1024&width=8562&height=946
+File Name: C:\Benzema\modric.trendex.gg\images\9V5YeaXwSIxB6N5A3ggPGaxIo-1.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/9V5YeaXwSIxB6N5A3ggPGaxIo.webp?scale-down-to=2048&width=8562&height=946
+File Name: C:\Benzema\modric.trendex.gg\images\9V5YeaXwSIxB6N5A3ggPGaxIo-2.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/9V5YeaXwSIxB6N5A3ggPGaxIo.webp?scale-down-to=4096&width=8562&height=946
+File Name: C:\Benzema\modric.trendex.gg\images\9V5YeaXwSIxB6N5A3ggPGaxIo-3.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/9V5YeaXwSIxB6N5A3ggPGaxIo.webp?scale-down-to=512&width=8562&height=946
+File Name: C:\Benzema\modric.trendex.gg\images\9V5YeaXwSIxB6N5A3ggPGaxIo.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/9V5YeaXwSIxB6N5A3ggPGaxIo.webp?width=8562&height=946
+File Name: C:\Benzema\modric.trendex.gg\images\9V5YeaXwSIxB6N5A3ggPGaxIo-4.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/A0PUeK0cKc6TVlILa4sEzjK2ngg.png?scale-down-to=512&width=680&height=93
+File Name: C:\Benzema\modric.trendex.gg\images\A0PUeK0cKc6TVlILa4sEzjK2ngg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/A0PUeK0cKc6TVlILa4sEzjK2ngg.png?width=680&height=93
+File Name: C:\Benzema\modric.trendex.gg\images\A0PUeK0cKc6TVlILa4sEzjK2ngg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/A7RSeWhaY4FcCUgJ0cA3WqvPnTo.png?scale-down-to=512&width=839&height=118
+File Name: C:\Benzema\modric.trendex.gg\images\A7RSeWhaY4FcCUgJ0cA3WqvPnTo-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/A7RSeWhaY4FcCUgJ0cA3WqvPnTo.png?width=839&height=118
+File Name: C:\Benzema\modric.trendex.gg\images\A7RSeWhaY4FcCUgJ0cA3WqvPnTo.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/B4os1NROpYHeRJP3FNSZyrxXDs.svg?scale-down-to=512&width=874&height=874
+File Name: C:\Benzema\modric.trendex.gg\images\B4os1NROpYHeRJP3FNSZyrxXDs-1.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/B4os1NROpYHeRJP3FNSZyrxXDs.svg?width=874&height=874
+File Name: C:\Benzema\modric.trendex.gg\images\B4os1NROpYHeRJP3FNSZyrxXDs.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/bs2xdQ4IeOJnQSLxPfbKkm97I.png?scale-down-to=1024&width=4510&height=3153
+File Name: C:\Benzema\modric.trendex.gg\images\bs2xdQ4IeOJnQSLxPfbKkm97I-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/bs2xdQ4IeOJnQSLxPfbKkm97I.png?scale-down-to=2048&width=4510&height=3153
+File Name: C:\Benzema\modric.trendex.gg\images\bs2xdQ4IeOJnQSLxPfbKkm97I-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/bs2xdQ4IeOJnQSLxPfbKkm97I.png?scale-down-to=4096&width=4510&height=3153
+File Name: C:\Benzema\modric.trendex.gg\images\bs2xdQ4IeOJnQSLxPfbKkm97I-4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/bs2xdQ4IeOJnQSLxPfbKkm97I.png?scale-down-to=512&width=4510&height=3153
+File Name: C:\Benzema\modric.trendex.gg\images\bs2xdQ4IeOJnQSLxPfbKkm97I-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/bs2xdQ4IeOJnQSLxPfbKkm97I.png?width=4510&height=3153
+File Name: C:\Benzema\modric.trendex.gg\images\bs2xdQ4IeOJnQSLxPfbKkm97I.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/dKgLBkDimC3n9GiAkclOWKKKHO0.png?scale-down-to=512&width=874&height=874
+File Name: C:\Benzema\modric.trendex.gg\images\dKgLBkDimC3n9GiAkclOWKKKHO0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/dKgLBkDimC3n9GiAkclOWKKKHO0.png?width=874&height=874
+File Name: C:\Benzema\modric.trendex.gg\images\dKgLBkDimC3n9GiAkclOWKKKHO0-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/F31Wzj06D5CoRZzpa5PpDtz0js.png?scale-down-to=512&width=834&height=676
+File Name: C:\Benzema\modric.trendex.gg\images\F31Wzj06D5CoRZzpa5PpDtz0js.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/F31Wzj06D5CoRZzpa5PpDtz0js.png?width=834&height=676
+File Name: C:\Benzema\modric.trendex.gg\images\F31Wzj06D5CoRZzpa5PpDtz0js-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/fbNuV27ZEXX9pnbLNzRnElpCbk.png?scale-down-to=1024&width=3041&height=615
+File Name: C:\Benzema\modric.trendex.gg\images\fbNuV27ZEXX9pnbLNzRnElpCbk.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/fbNuV27ZEXX9pnbLNzRnElpCbk.png?scale-down-to=2048&width=3041&height=615
+File Name: C:\Benzema\modric.trendex.gg\images\fbNuV27ZEXX9pnbLNzRnElpCbk-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/fbNuV27ZEXX9pnbLNzRnElpCbk.png?scale-down-to=512&width=3041&height=615
+File Name: C:\Benzema\modric.trendex.gg\images\fbNuV27ZEXX9pnbLNzRnElpCbk-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/fbNuV27ZEXX9pnbLNzRnElpCbk.png?width=3041&height=615
+File Name: C:\Benzema\modric.trendex.gg\images\fbNuV27ZEXX9pnbLNzRnElpCbk-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/fFKMePTAvEOM5KbmcO09lvBG4.png?scale-down-to=1024&width=5940&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\fFKMePTAvEOM5KbmcO09lvBG4-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/fFKMePTAvEOM5KbmcO09lvBG4.png?scale-down-to=2048&width=5940&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\fFKMePTAvEOM5KbmcO09lvBG4-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/fFKMePTAvEOM5KbmcO09lvBG4.png?scale-down-to=4096&width=5940&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\fFKMePTAvEOM5KbmcO09lvBG4-4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/fFKMePTAvEOM5KbmcO09lvBG4.png?scale-down-to=512&width=5940&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\fFKMePTAvEOM5KbmcO09lvBG4-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/fFKMePTAvEOM5KbmcO09lvBG4.png?width=5940&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\fFKMePTAvEOM5KbmcO09lvBG4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hamhNNuxOw2eeako6ojWDtZzFk.png?scale-down-to=1024&width=2248&height=2248
+File Name: C:\Benzema\modric.trendex.gg\images\hamhNNuxOw2eeako6ojWDtZzFk-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hamhNNuxOw2eeako6ojWDtZzFk.png?scale-down-to=2048&width=2248&height=2248
+File Name: C:\Benzema\modric.trendex.gg\images\hamhNNuxOw2eeako6ojWDtZzFk-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hamhNNuxOw2eeako6ojWDtZzFk.png?scale-down-to=512&width=2248&height=2248
+File Name: C:\Benzema\modric.trendex.gg\images\hamhNNuxOw2eeako6ojWDtZzFk-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hamhNNuxOw2eeako6ojWDtZzFk.png?width=2248&height=2248
+File Name: C:\Benzema\modric.trendex.gg\images\hamhNNuxOw2eeako6ojWDtZzFk.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hFQFSY31X120CXZCjSjab4rvNM.png?scale-down-to=512&width=780&height=222
+File Name: C:\Benzema\modric.trendex.gg\images\hFQFSY31X120CXZCjSjab4rvNM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hFQFSY31X120CXZCjSjab4rvNM.png?width=780&height=222
+File Name: C:\Benzema\modric.trendex.gg\images\hFQFSY31X120CXZCjSjab4rvNM-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ikaSzKHYCqsXh28R3uNpeBQftg.png?scale-down-to=1024&width=4748&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\ikaSzKHYCqsXh28R3uNpeBQftg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ikaSzKHYCqsXh28R3uNpeBQftg.png?scale-down-to=2048&width=4748&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\ikaSzKHYCqsXh28R3uNpeBQftg-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ikaSzKHYCqsXh28R3uNpeBQftg.png?scale-down-to=4096&width=4748&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\ikaSzKHYCqsXh28R3uNpeBQftg-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ikaSzKHYCqsXh28R3uNpeBQftg.png?width=4748&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\ikaSzKHYCqsXh28R3uNpeBQftg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JIvflKc3oUsMrU1S49F8xEEHE.png
+File Name: C:\Benzema\modric.trendex.gg\images\JIvflKc3oUsMrU1S49F8xEEHE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/K8Dsu5rNWjQGaeEduKuFyk6wDiE.png?scale-down-to=1024&width=4510&height=3152
+File Name: C:\Benzema\modric.trendex.gg\images\K8Dsu5rNWjQGaeEduKuFyk6wDiE-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/K8Dsu5rNWjQGaeEduKuFyk6wDiE.png?scale-down-to=2048&width=4510&height=3152
+File Name: C:\Benzema\modric.trendex.gg\images\K8Dsu5rNWjQGaeEduKuFyk6wDiE-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/K8Dsu5rNWjQGaeEduKuFyk6wDiE.png?scale-down-to=4096&width=4510&height=3152
+File Name: C:\Benzema\modric.trendex.gg\images\K8Dsu5rNWjQGaeEduKuFyk6wDiE-4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/K8Dsu5rNWjQGaeEduKuFyk6wDiE.png?scale-down-to=512&width=4510&height=3152
+File Name: C:\Benzema\modric.trendex.gg\images\K8Dsu5rNWjQGaeEduKuFyk6wDiE-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/K8Dsu5rNWjQGaeEduKuFyk6wDiE.png?width=4510&height=3152
+File Name: C:\Benzema\modric.trendex.gg\images\K8Dsu5rNWjQGaeEduKuFyk6wDiE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/lC5PX4JDVJVXTnfCrAmmfW58pk.png?scale-down-to=1024&width=3000&height=499
+File Name: C:\Benzema\modric.trendex.gg\images\lC5PX4JDVJVXTnfCrAmmfW58pk.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/lC5PX4JDVJVXTnfCrAmmfW58pk.png?scale-down-to=2048&width=3000&height=499
+File Name: C:\Benzema\modric.trendex.gg\images\lC5PX4JDVJVXTnfCrAmmfW58pk-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/lC5PX4JDVJVXTnfCrAmmfW58pk.png?scale-down-to=512&width=3000&height=499
+File Name: C:\Benzema\modric.trendex.gg\images\lC5PX4JDVJVXTnfCrAmmfW58pk-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/lC5PX4JDVJVXTnfCrAmmfW58pk.png?width=3000&height=499
+File Name: C:\Benzema\modric.trendex.gg\images\lC5PX4JDVJVXTnfCrAmmfW58pk-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/nQaYrLB8KVgIl1rEQkBREU2yik.png?scale-down-to=1024&width=4511&height=3152
+File Name: C:\Benzema\modric.trendex.gg\images\nQaYrLB8KVgIl1rEQkBREU2yik-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/nQaYrLB8KVgIl1rEQkBREU2yik.png?scale-down-to=2048&width=4511&height=3152
+File Name: C:\Benzema\modric.trendex.gg\images\nQaYrLB8KVgIl1rEQkBREU2yik-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/nQaYrLB8KVgIl1rEQkBREU2yik.png?scale-down-to=4096&width=4511&height=3152
+File Name: C:\Benzema\modric.trendex.gg\images\nQaYrLB8KVgIl1rEQkBREU2yik-4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/nQaYrLB8KVgIl1rEQkBREU2yik.png?scale-down-to=512&width=4511&height=3152
+File Name: C:\Benzema\modric.trendex.gg\images\nQaYrLB8KVgIl1rEQkBREU2yik-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/nQaYrLB8KVgIl1rEQkBREU2yik.png?width=4511&height=3152
+File Name: C:\Benzema\modric.trendex.gg\images\nQaYrLB8KVgIl1rEQkBREU2yik.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/pOBvE1ZEVEHkiAK75oL0ZtlNQQ.png?scale-down-to=1024&width=1062&height=490
+File Name: C:\Benzema\modric.trendex.gg\images\pOBvE1ZEVEHkiAK75oL0ZtlNQQ.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/pOBvE1ZEVEHkiAK75oL0ZtlNQQ.png?scale-down-to=512&width=1062&height=490
+File Name: C:\Benzema\modric.trendex.gg\images\pOBvE1ZEVEHkiAK75oL0ZtlNQQ-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/pOBvE1ZEVEHkiAK75oL0ZtlNQQ.png?width=1062&height=490
+File Name: C:\Benzema\modric.trendex.gg\images\pOBvE1ZEVEHkiAK75oL0ZtlNQQ-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/QPabO0z2fzHBmXhnjYJ0n2i8.svg?scale-down-to=512&width=874&height=874
+File Name: C:\Benzema\modric.trendex.gg\images\QPabO0z2fzHBmXhnjYJ0n2i8-1.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/QPabO0z2fzHBmXhnjYJ0n2i8.svg?width=874&height=874
+File Name: C:\Benzema\modric.trendex.gg\images\QPabO0z2fzHBmXhnjYJ0n2i8.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/VnZJjYTtcNxK2LTOPw5lqOe8KY.png?scale-down-to=1024&width=5940&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\VnZJjYTtcNxK2LTOPw5lqOe8KY-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/VnZJjYTtcNxK2LTOPw5lqOe8KY.png?scale-down-to=2048&width=5940&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\VnZJjYTtcNxK2LTOPw5lqOe8KY-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/VnZJjYTtcNxK2LTOPw5lqOe8KY.png?scale-down-to=4096&width=5940&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\VnZJjYTtcNxK2LTOPw5lqOe8KY-4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/VnZJjYTtcNxK2LTOPw5lqOe8KY.png?scale-down-to=512&width=5940&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\VnZJjYTtcNxK2LTOPw5lqOe8KY-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/VnZJjYTtcNxK2LTOPw5lqOe8KY.png?width=5940&height=4806
+File Name: C:\Benzema\modric.trendex.gg\images\VnZJjYTtcNxK2LTOPw5lqOe8KY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/XKOwNLuxpGaQHUEupyB7smNpJX4.svg?scale-down-to=512&width=874&height=874
+File Name: C:\Benzema\modric.trendex.gg\images\XKOwNLuxpGaQHUEupyB7smNpJX4-1.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/XKOwNLuxpGaQHUEupyB7smNpJX4.svg?width=874&height=874
+File Name: C:\Benzema\modric.trendex.gg\images\XKOwNLuxpGaQHUEupyB7smNpJX4.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/XUITtNReUJGwftu39muSnZGUlM.webp?width=460&height=460
+File Name: C:\Benzema\modric.trendex.gg\images\XUITtNReUJGwftu39muSnZGUlM.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/Z3Q9GjLhNreJCyL2K9YwRHOU.png?scale-down-to=512&width=834&height=676
+File Name: C:\Benzema\modric.trendex.gg\images\Z3Q9GjLhNreJCyL2K9YwRHOU.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Z3Q9GjLhNreJCyL2K9YwRHOU.png?width=834&height=676
+File Name: C:\Benzema\modric.trendex.gg\images\Z3Q9GjLhNreJCyL2K9YwRHOU-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/zdJEhLQAfK8tgx3OKKpqmfBsXA.png?scale-down-to=1024&width=1055&height=490
+File Name: C:\Benzema\modric.trendex.gg\images\zdJEhLQAfK8tgx3OKKpqmfBsXA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/zdJEhLQAfK8tgx3OKKpqmfBsXA.png?scale-down-to=512&width=1055&height=490
+File Name: C:\Benzema\modric.trendex.gg\images\zdJEhLQAfK8tgx3OKKpqmfBsXA-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/zdJEhLQAfK8tgx3OKKpqmfBsXA.png?width=1055&height=490
+File Name: C:\Benzema\modric.trendex.gg\images\zdJEhLQAfK8tgx3OKKpqmfBsXA-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/AAxKoQv6O.C6y4Qr9A.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\AAxKoQv6O.C6y4Qr9A.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/BAwRJ8vPd.ajjakStu.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\BAwRJ8vPd.ajjakStu.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/BVvfGsA25.CL7V8Z3k.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\BVvfGsA25.CL7V8Z3k.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/EwyOjcDvS.CwigwzVd.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\EwyOjcDvS.CwigwzVd.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/framer.CHiqFDK1.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\framer.CHiqFDK1.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/gmA4bQIgw.DfEJiH-d.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\gmA4bQIgw.DfEJiH-d.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/jm3ClYtypvwCyCCe9k7H9LzQeqvUuNK0zIsMVn_J1T0.BZfj2f44.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\jm3ClYtypvwCyCCe9k7H9LzQeqvUuNK0zIsMVn_J1T0.BZfj2f44.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/motion.Yy1bS6TU.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\motion.Yy1bS6TU.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/pZ_dqrDC7P_i8QquV9DqlhPap3jI2dyA3fpcGlLOTV8.DeuQt5gl.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\pZ_dqrDC7P_i8QquV9DqlhPap3jI2dyA3fpcGlLOTV8.DeuQt5gl.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/react.BE1y29yu.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\react.BE1y29yu.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/rolldown-runtime.DejPTh6N.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\rolldown-runtime.DejPTh6N.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/script_main.DEo41SLd.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\script_main.DEo41SLd.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/shared-lib.FnNx8aLt.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\shared-lib.FnNx8aLt.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/SmoothScroll_Prod.BFemEMHh.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\SmoothScroll_Prod.BFemEMHh.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/vto7k9C22.T4rs3SV2.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\vto7k9C22.T4rs3SV2.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/WxasQJ7Uh.DP6hfwbA.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\WxasQJ7Uh.DP6hfwbA.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/ZUT4TY4lt.DZAKTdz4.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\ZUT4TY4lt.DZAKTdz4.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/72t1dpJcbZUOV55J0BBv2R/_qT5PSXVFgHcvRIQUPbk1Rzp5r_c96zA_jD0BXOKIfQ.C6aZLAL1.mjs
+File Name: C:\Benzema\modric.trendex.gg\sites\72t1dpJcbZUOV55J0BBv2R\_qT5PSXVFgHcvRIQUPbk1Rzp5r_c96zA_jD0BXOKIfQ.C6aZLAL1.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/GFEQC7SZ2XMFHB2INR6RE24JKHO5JNTS/R2HDHPNP7PMXFG5AIIV7PF3KFELSLGKJ/COAKOVM7H37QQIPEFBZNVR5EL4GEPLQU.woff2
+File Name: C:\Benzema\modric.trendex.gg\third-party-assets\fontshare\wf\GFEQC7SZ2XMFHB2INR6RE24JKHO5JNTS\R2HDHPNP7PMXFG5AIIV7PF3KFELSLGKJ\COAKOVM7H37QQIPEFBZNVR5EL4GEPLQU.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/LQZILVYBY2UXBMF3ZGAZKDS2P53HB2G5/XB4XS4AXY7LIGYBYPO7RTAIGNPOSSI7K/V2SN6OQGC3Z2CCFHLOEJRJKQXUTOKEBX.woff2
+File Name: C:\Benzema\modric.trendex.gg\third-party-assets\fontshare\wf\LQZILVYBY2UXBMF3ZGAZKDS2P53HB2G5\XB4XS4AXY7LIGYBYPO7RTAIGNPOSSI7K\V2SN6OQGC3Z2CCFHLOEJRJKQXUTOKEBX.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/VSNXONY2BLKCCCIIFN3QP3P5BXXEA5YH/A2J6XXDN7IS2QQTDF3NMODLJZST4TPB3/FZLOZKW4QKL7ZPKPM3GBO5JS4J3JL2DF.woff2
+File Name: C:\Benzema\modric.trendex.gg\third-party-assets\fontshare\wf\VSNXONY2BLKCCCIIFN3QP3P5BXXEA5YH\A2J6XXDN7IS2QQTDF3NMODLJZST4TPB3\FZLOZKW4QKL7ZPKPM3GBO5JS4J3JL2DF.woff2
+Content Type: application/octet-stream
+
+Uri: https://modric.trendex.gg/
+File Name: C:\Benzema\modric.trendex.gg\index.htm
+Content Type: text/html
+
+Uri: https://modric.trendex.gg/privacy-policy
+File Name: C:\Benzema\modric.trendex.gg\privacy-policy.html
+Content Type: text/html
+
+Uri: https://modric.trendex.gg/terms-of-service
+File Name: C:\Benzema\modric.trendex.gg\terms-of-service.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-9RCVKZNFSL
+File Name: C:\Benzema\modric.trendex.gg\gtag\js
+Content Type: application/javascript
+
